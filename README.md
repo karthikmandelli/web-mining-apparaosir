@@ -10,3 +10,5 @@ HEY HI ! I AM MYSELF MANDELLI KARTHIK
   2) information retrieval
      a) boolean model
      b)vector space model
+     c)statistical language model
+     
