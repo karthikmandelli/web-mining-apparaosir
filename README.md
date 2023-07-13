@@ -1,4 +1,4 @@
-# web-mining-thammi-reddy-sirsir-
+# web-mining-thammireddysir-
 HEY HI ! I AM MYSELF MANDELLI KARTHIK 
  THIS REPOSITORY CONSISTS OF 
    1) TOKENZATION
